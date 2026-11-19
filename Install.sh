@@ -1,6 +1,6 @@
 echo Installing, Please wait.
 mkdir -p ~/Install
-curl -L -o ~/Install/shell.sh https://github.com/nanaima1029-source/xsudo
+curl -L -o ~/Install/shell.sh https://github.com/nanaima1029-source/xsudo/xsetup_wizard.sh
 sleep 2
 echo 1%..
 sleep 1
